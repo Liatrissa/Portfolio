@@ -2,11 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center">Я собрала примеры некоторых своих работ, которые демострируют чем я могу быть полезна для вашего бизнеса. У меня есть опыт проведения аналитики в таких сферах как: </h4>
 
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Маркетплейсы, торговля <br>
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Финансы <br>
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Образовательные платформы <br>
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Аптеки и медицина <br>
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Мобильные приложения <br>
+- Маркетплейсы, торговля <br>
+- Финансы <br>
+- Образовательные платформы <br>
+- Аптеки и медицина <br>
+- Мобильные приложения <br>
 
 <hr></hr>
 
